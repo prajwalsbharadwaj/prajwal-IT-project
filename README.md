@@ -52,5 +52,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-Created by [Your Name] - [your.email@example.com] - feel free to reach out if you have any questions!
+Created by B S Prajwal - bharadwajsprajwal19@gmail.com - feel free to reach out if you have any questions!
 
